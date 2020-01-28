@@ -1,0 +1,3 @@
+https://www.olx.ro/imobiliare/apartamente-garsoniere-de-vanzare/cluj-napoca/q-dorobantilor/?search%5Bfilter_float_price%3Ato%5D=130000&search%5Bfilter_float_m%3Afrom%5D=50&search%5Bdescription%5D=1
+https://www.olx.ro/imobiliare/apartamente-garsoniere-de-vanzare/cluj-napoca/q-nasaud/?search%5Bfilter_float_price%3Ato%5D=130000&search%5Bfilter_float_m%3Afrom%5D=50&search%5Bdescription%5D=1
+https://www.olx.ro/imobiliare/apartamente-garsoniere-de-vanzare/cluj-napoca/q-21-decembrie/?search%5Bfilter_float_price%3Ato%5D=130000&search%5Bfilter_float_m%3Afrom%5D=50&search%5Bdescription%5D=1
